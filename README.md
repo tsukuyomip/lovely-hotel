@@ -1,4 +1,4 @@
-lovely-hotel
+lovely-hotel :)
 ============
 
 CI Study
